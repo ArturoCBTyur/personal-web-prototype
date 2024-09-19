@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    background-color: #7c238c;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.header-title{
+        font-family: "Cinzel Decorative", serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 1.5em;
+}
+
